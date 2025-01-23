@@ -1,0 +1,1 @@
+This repository contains a React Native app that demonstrates an unhandled exception in a network request on Android. The app fetches data from a JSONPlaceholder API endpoint.  The bug is that the app crashes on Android due to an unhandled exception when the network request fails. The solution shows how to handle this exception gracefully and prevent the app from crashing.
